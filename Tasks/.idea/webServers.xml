@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="eb2178ab-a309-47c7-b477-90eb1447138b" name="JobResp" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\Users\l.morales\gitResp" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
